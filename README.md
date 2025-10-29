@@ -33,9 +33,9 @@ Download from the [Android developer site](https://developer.android.com/studio#
 Extract to your SDK directory under `cmdline-tools/latest`.
 
 ### 5. Install WaveVR SDK 3.2.0
-Download WaveVR SDK 3.2.0 from [VIVE Developer Portal](https://developer.vive.com/resources/).  
+Download WaveVR SDK 3.2.0 from [VIVE Developer Portal]([https://developer.vive.com/resources/](https://developer.vive.com/resources/vive-wave/download/archive/320/)).  
 Follow the integration guide for Unreal Engine 4.25 and Android.  
-Add the SDK to your project’s Plugins or ThirdParty directory as required.
+Add the SDK to your projectâ€™s Plugins or ThirdParty directory as required.
 
 ### 6. Unreal Engine 4.25 Setup
 - In Unreal Engine 4.25, open __Edit > Project Settings > Platforms > Android__.
